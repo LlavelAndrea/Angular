@@ -1,2 +1,2 @@
-# Planificacion1.M.A.
+# Practica de amigas
 Trabajo en equipo
